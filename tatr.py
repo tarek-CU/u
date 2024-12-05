@@ -1,1 +1,1 @@
-#rare
+print("n")

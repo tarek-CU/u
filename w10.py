@@ -7,7 +7,7 @@ def isLeap(y):
         else: 
             leap = True
     return leap
-
+print("N")
 def pointInTriangle(b,h,x,y):
     
     ret = 1 # outside
